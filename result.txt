@@ -1,0 +1,64 @@
+JSON
+Индексы и ключи БД
+Внутренние типы данных БД
+Объекты базы данных
+Описание данных в БД
+Toothpick
+Retrofit
+RxJava
+Dagger
+OKHttp
+Flurry
+App Annie
+Виды многозадачности
+Методы асинхронного программирования
+Работа с транзакциями
+Автономные транзакции
+Уровни изоляций транзакций
+Распределенные транзакции
+Glide
+Webpack
+NPM
+Yarn
+Gradle
+Fastlane
+Room
+Phoenix
+Android SDK
+Android Studio
+GraphQL
+Алгоритмы поиска и сортировки
+Комбинаторные алгоритмы
+Получисленные алгоритмы
+Оценка сложности алгоритмов
+Графы, деревья, связанные списки
+Базовые структуры данных
+Параллельная обработка запросов
+Архитектура СУБД
+Синтаксис XML
+Синтаксис HTML
+SOLID - принципы
+ML Kit
+DataBinding
+Google Play Console
+OpenCV
+Moxy
+Android Jetpack
+Google Play Services
+Android Support Libraries
+ARCore
+React Native
+ExoPlayer
+Синтаксис Elixir
+Синтаксис Java
+Синтаксис Kotlin
+Синтаксис JavaScript
+Принципы оптимизации производительности кода
+Рефакторинг кода
+Триггеры и хранимые процедуры
+Оптимизация производительности БД
+Манипулирование данными
+Java DataBase Connectivity (JDBC)
+Google Java Style Guide
+Логические операции
+
